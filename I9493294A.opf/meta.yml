@@ -1,0 +1,99 @@
+id: I9493294A
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-16T10:28:25+00:00'
+last_modified: '2022-06-10T04:56:47.222543+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W30199
+  title: སྙན་བརྒྱུད་ཁྲིད་ཆེན་བཅུ་གསུམ་སྐོར།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    1C71:
+      image_group_id: I5994
+      title: ''
+      total_pages: 700
+      order: 1
+      base_file: 1C71.txt
+    '2028':
+      image_group_id: I5995
+      title: ''
+      total_pages: 882
+      order: 2
+      base_file: 2028.txt
+    '9026':
+      image_group_id: I5996
+      title: ''
+      total_pages: 444
+      order: 3
+      base_file: 9026.txt
+    '9349':
+      image_group_id: I5997
+      title: ''
+      total_pages: 1038
+      order: 4
+      base_file: 9349.txt
+    394E:
+      image_group_id: I5998
+      title: ''
+      total_pages: 530
+      order: 5
+      base_file: 394E.txt
+    '1632':
+      image_group_id: I5999
+      title: ''
+      total_pages: 498
+      order: 6
+      base_file: 1632.txt
+    9FC4:
+      image_group_id: I6000
+      title: ''
+      total_pages: 260
+      order: 7
+      base_file: 9FC4.txt
+    A800:
+      image_group_id: I6001
+      title: ''
+      total_pages: 598
+      order: 8
+      base_file: A800.txt
+    787C:
+      image_group_id: I6002
+      title: ''
+      total_pages: 708
+      order: 9
+      base_file: 787C.txt
+    A941:
+      image_group_id: I6003
+      title: ''
+      total_pages: 512
+      order: 10
+      base_file: A941.txt
+    8FFF:
+      image_group_id: I6004
+      title: ''
+      total_pages: 498
+      order: 11
+      base_file: 8FFF.txt
+    6E4E:
+      image_group_id: I6005
+      title: ''
+      total_pages: 936
+      order: 12
+      base_file: 6E4E.txt
+    9BD9:
+      image_group_id: I6006
+      title: ''
+      total_pages: 904
+      order: 13
+      base_file: 9BD9.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
